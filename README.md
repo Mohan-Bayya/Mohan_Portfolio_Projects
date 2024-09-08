@@ -1,1 +1,3 @@
-### A collection of data analysis projects showcasing my expertise in extracting insights from complex datasets. Explore my work in data cleaning, visualization, and statistical analysis using tools and techniques to drive data-driven decisions.
+# Mohan's Data Analysis Projects Portfolio
+
+Welcome to my data analysis portfolio! This repository contains a collection of projects that highlight my skills in data analysis, including data cleaning, visualization, and statistical analysis.
